@@ -12,3 +12,7 @@ This project design and implement an instant chat program that supports message 
     -  To get a solid experience in using socket functions to implement a real-life protocol.
     -  To get a good understanding of how a text-based peer- networking protocol worts as well
      as how to impiement one.
+
+## Specifications
+
+Please refer to "specification.png" for more information.
