@@ -8,6 +8,7 @@ This project design and implement an instant chat program that supports message 
   using Socket interface to design and implement a network application".
 2. A learning activity to support ILO1, ILO2a, ILO2d, and ILO4.
 3. The goals of this programming project are;
-  -  To get a solid experience in using socket functions to implement a real-life protocol.
-  -  To get a good understanding of how a text-based peer- networking protocol worts as well
+    
+    -  To get a solid experience in using socket functions to implement a real-life protocol.
+    -  To get a good understanding of how a text-based peer- networking protocol worts as well
      as how to impiement one.
